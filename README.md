@@ -17,8 +17,9 @@ with an input field to add tags to more selectively filter the list.
 * Brad Barnes
 
 # Technologies Used
-* MongoDB
-* Express
 * React
 * Redux
 * Node.js
+* Webpack
+* Babel
+* Express - (I plan to Remove Hatchways API/references and continue project)
